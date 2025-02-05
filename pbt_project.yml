@@ -1,0 +1,57 @@
+name: art.wilkinson
+description: cohesive
+version: 0.0.1
+author: 6vsdfvho.v9rxonnk@si1yav24.com
+language: scala
+buildSystem: ''
+buildSystemDetails:
+  artefactID: artwilkinson
+  parentArtefactID: ''
+  buildSystem: maven
+  author: null
+  createdAt: '2025-02-05 13:46:59'
+pipelines: {}
+datasets: {}
+templates: {}
+jobs: {}
+gemContainer:
+  languageVersion: ''
+  gemLibsVersion: ''
+  gems: {}
+  dependencies: null
+functions:
+  author: null
+  createdAt: '2025-02-05 13:46:59'
+  udfs: {}
+  udafs: {}
+  expressions: {}
+  airflowFunctions: {}
+  businessRules: {}
+subgraphs: {}
+sqlModels: {}
+sqlSnapshots: {}
+sqlTests: {}
+sqlMacros: {}
+sqlSeeds: {}
+sqlSources: {}
+sqlUnreferencedSources: {}
+sqlPipeline: null
+dependencies:
+- modifiedAt: '2025-02-05T13:46:59.140485Z'
+  name: plibMaven
+  version: 8.9.0-SNAPSHOT
+  id: '679788872'
+  createdAt: '2025-02-05T13:46:59.140485Z'
+  type: plibMaven
+projectDependencies:
+  '173':
+    projectUID: 173
+    projectName: colene.simonis
+    repositoryPath: gitUri=http://gitserver:3000/dev_Apn9ACWG_team_220/dev_Apn9ACWG_project_173.git&subPath=
+    version: colene.simonis/8.8.4.272
+    isDefault: false
+    author: null
+    createdAt: '2025-02-05 13:46:58'
+flags:
+  shouldAddDefaultDependenciesIfAbsent: true
+pipelineConfigurations: {}
